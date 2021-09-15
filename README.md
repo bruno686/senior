@@ -1,6 +1,8 @@
 # Last year
 I would like to take this opportunity to commemorate my last year of university life.
 
+低调做事，踏实做人，切勿随意猜测，发现客观事实 ——  一个普普通通的学生
+
 #### Core work
 
 1. National project
@@ -22,7 +24,7 @@ I would like to take this opportunity to commemorate my last year of university 
 
 - Observation data set
 
-**UAS project（✔）**
+**UAS project**
 
 - Figure out the search process 
   1. review lecture 1 and lecture 2, study lecture 3 before 2021.9.16
@@ -30,7 +32,7 @@ I would like to take this opportunity to commemorate my last year of university 
 **Improve ability in english**
 
 - Words
-  1. Memorize words (50/2000) on 2021.9.15
+  1. Memorize words (25/2416) on 2021.9.15（✔）
 
 **Data structure and algorithm**
 
