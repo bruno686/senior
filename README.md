@@ -1,44 +1,64 @@
 # Last year
 I would like to take this opportunity to commemorate my last year of university life.
 
-低调做事，踏实做人，切勿随意猜测，发现客观事实 ——  一个普普通通的学生
-
-#### Core work
-
-1. National project
-2. UAS project
-3. Read books
-
-#### Edge work
-
-1. Improve ability in english
-2. Data structure and algorithm
-3. Calligraphy
+低调做事，踏实做人。少就是多，慢就是快。			   ——2021.9.24
 
 ------
 
-**National project**
+**科研学习计划**
 
-- Thinking about how reviews should be handled
-  1. Read the paper and figure out the details carefully, two papers a day before 2021.9.16
+1. 基于上下文的推荐
+2. 信息检索
+3. 复现新闻推荐论文
+4. 持续学习英语
+5. 数据结构与算法
 
-- Observation data set
+**生活计划**
 
-**UAS project**
+1. 打乒乓球，锻炼身体（下午4：00-）
+2. 下午茶
+3. 阅读两本书
+4. 旅游西藏，九江
 
-- Figure out the search process 
-  1. review lecture 1 and lecture 2, study lecture 3 before 2021.9.16
+**知识补充**
 
-**Improve ability in english**
+1. 通过复现论文，学会debug方法以及各种数据类型转换，pytorch加深熟练掌握，对常见的推荐方法了解更多。
+2. 通过学习数据结构与算法，掌握一些算法的复杂度计算，以及写代码的熟练度。
+3. 学习B站上深度学习教程视频。
+4. 英语每日背单词，同时练听力。
 
-- Words
-  1. Memorize words (25/2416) on 2021.9.15（✔）
+------
 
-**Data structure and algorithm**
+**科研学习计划（详细）**
 
-- Graph 
-  1. Definition of the graph in detail before 2021.9.16
+1. 基于上下文的推荐
 
-**Calligraphy**
+   进度安排：2022.4结题，2021.10产生想法并测试，2021.11做实验并写论文，写专利
 
-- 2021.9.15
+   - Idea：思考怎么将评论更好的融入到推荐模型中（2021.9.24 - 201.10.30）
+     - 每日阅读两篇关于评论的推荐论文
+   - Code：完成模型的性能测试，实验数据收集（想法成熟 - 2021.11.30）
+   - Manuscript：撰写论文（想法成熟 - 2021.12）
+
+2. 信息检索
+
+   进度安排：2022.4结题
+
+   - 基础：信息检索基础知识，搞清楚信息检索过程
+
+3. 复现新闻推荐论文
+
+   进度安排：每天复现，及时记录，静下心思考
+
+   - 设计怎么才能使数据读取更加的简单和快速，以及整个代码的结构更合理和易读
+   - 设计怎么取样小批量数据验证整个模型的实验效果是否符合预期。
+   - 解决每一个在复现中遇到的问题并且系统的学习相应的知识。
+   - 记录报错问题和相应的解决方案，对常见的错误类型整理。
+
+4. 持续学习英语
+
+   进度安排：每天背单词，量少，但是确保每个例句都用来练听力。
+
+5. 数据结构与算法
+
+   进度安排：多花时间搞懂一个数据结构或算法，搞明白细节。
