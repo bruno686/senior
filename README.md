@@ -19,6 +19,7 @@ I would like to take this opportunity to commemorate my last year of university 
 2. 下午茶
 3. 阅读两本书
 4. 旅游西藏，九江
+5. 看一些有趣的电影
 
 **知识补充**
 
